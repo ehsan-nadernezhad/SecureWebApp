@@ -5,7 +5,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using SecureWebApp.Data;
+using SecureWebApp.Models;
 
 namespace SecureWebApp.Areas.Identity.Pages.Account
 {

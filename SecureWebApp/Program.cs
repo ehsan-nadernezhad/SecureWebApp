@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SecureWebApp.Data;
+using SecureWebApp.Models;
 
 namespace SecureWebApp
 {
